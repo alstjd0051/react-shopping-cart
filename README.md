@@ -1,4 +1,4 @@
-# react 터미널 설치
+# react 터미널에서 설치한것
 
     npx create-react-app react-shopping-cart --template typescript
 
